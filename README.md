@@ -16,7 +16,7 @@ This project analyzes Netflix data to discover trends in content over the years.
 
 ## How to Run
 1. Clone the repo
-2. 
+2. open main.py
 3. Run cells step by step
 
 ## Dataset
