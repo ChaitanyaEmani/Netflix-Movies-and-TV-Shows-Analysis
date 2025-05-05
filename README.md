@@ -22,5 +22,5 @@ This project analyzes Netflix data to discover trends in content over the years.
 ## Dataset
 Available on [Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
 
-## License
-MIT
+## Colab Link
+https://colab.research.google.com/drive/1PqZpEgyiENuwAhZTM-g6yRJcjLXisKc0?usp=drive_link
